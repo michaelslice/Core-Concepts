@@ -1,0 +1,2 @@
+# DNS Resolution Process
+DNS translates human-readable domain names into machine-readable IP addresses. This translation process, known as DNS resolution, enables users to access websites and online services using easy-to-remember domain names instead of having to memorize complex numerical IP addresses. The DNS resolution process involves a series of recursive and iterative queries, utilizing a distributed and hierarchical infrastructure of DNS servers, resolvers, and caching mechanisms

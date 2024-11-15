@@ -1,0 +1,2 @@
+# XML vs. JSON
+XML (eXtensible Markup Language) and JSON (JavaScript Object Notation) are both formats used for storing and transporting data, particularly in the context of web applications. While they serve similar purposes, they have distinct characteristics and are suited to different use cases.

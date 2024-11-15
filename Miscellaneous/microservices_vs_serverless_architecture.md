@@ -1,0 +1,2 @@
+# Microservices vs. Serverless Architecture
+Microservices and Serverless Architecture are two popular approaches in designing scalable, modern applications. They share some principles but differ significantly in how they are structured and managed.

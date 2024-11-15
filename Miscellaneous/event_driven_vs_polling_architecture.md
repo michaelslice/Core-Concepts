@@ -1,0 +1,2 @@
+# Event-Driven vs. Polling Architecture
+Event-Driven and Polling architectures represent two different approaches to monitoring and responding to changes or new data in software systems. Each has its characteristics, benefits, and best use cases.

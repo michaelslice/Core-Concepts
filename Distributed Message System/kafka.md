@@ -1,0 +1,3 @@
+# Introduction to Kafka
+## What is Kafka?
+Apache Kafka is an open-source publish-subscribe-based messaging system. It is distributed, durable, fault-tolerant, and highly scalable by design. Fundamentally, it is a system that takes streams of messages from applications known as producers, stores them reliably on a central cluster (containing a set of brokers), and allows those messages to be received by applications (known as consumers) that process the messages.

@@ -1,0 +1,2 @@
+# Push vs. Pull Notification Systems
+Push and pull notification systems are two distinct methods used in software and web applications for updating users with new information. Understanding the differences between them is crucial for designing effective and user-friendly notification mechanisms.

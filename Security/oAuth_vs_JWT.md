@@ -1,0 +1,2 @@
+# OAuth vs. JWT for Authentication
+OAuth and JWT (JSON Web Tokens) are both widely used in the field of web security, but they serve different purposes and are often used in conjunction with each other rather than in opposition. Understanding their distinct roles is key to implementing effective authentication and authorization strategies in web applications.

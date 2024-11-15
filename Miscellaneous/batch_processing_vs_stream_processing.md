@@ -1,0 +1,2 @@
+# Batch Processing vs. Stream Processing
+Batch Processing and Stream Processing are two distinct approaches to processing data in computing, each with its own use cases and characteristics. Understanding the differences between them is crucial for choosing the right processing method for a given task or application.

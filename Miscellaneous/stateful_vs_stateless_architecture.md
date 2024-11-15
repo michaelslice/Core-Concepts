@@ -1,0 +1,2 @@
+# Stateful vs. Stateless Architecture
+Stateful and Stateless architectures represent two different approaches to managing user information and server interactions in software design, particularly in web services and applications. Understanding the distinctions between them is crucial for designing systems that efficiently handle user sessions and data.
