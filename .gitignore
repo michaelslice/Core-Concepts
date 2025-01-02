@@ -9,3 +9,65 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static Libraries
+*.lib
+*.a
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug and Release directories
+[Dd]ebug/
+[Rr]elease/
+build/
+Build/
+
+# IDE-specific files
+# CLion
+.idea/
+*.iml
+
+# Code::Blocks
+*.layout
+*.cbp
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.opendb
+*.VC.db
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.temp
+
+# System-specific files
+.DS_Store
+Thumbs.db

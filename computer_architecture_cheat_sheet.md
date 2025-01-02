@@ -15,7 +15,6 @@ Each process uses a portion of its memory in RAM for the stack, heap, and the te
 ## Memory Data Units
 
 - Bit: Uses 0 or 1
-- Nibble: 4 bits
 - Byte: 8 bits
 - Kilobyte: 1024 bytes
 - Megabyte: 1024 kilobytes

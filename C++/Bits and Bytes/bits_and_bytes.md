@@ -1,0 +1,13 @@
+char = 1 byte (0 to 255 decimal)
+bool = 1 byte
+short int = 2 bytes (-32,768 to 32,767 decimal)
+unsigned short int = 2 bytes (0 to 65,535 decimal)
+int = 4 bytes (-2,147,483,648 to 2,147,483,647)
+unsigned int = 4 bytes (0 to 4,294,967,295)
+long int = 8 bytes (-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807)
+unsigned long int = 8 bytes (0 to 18,446,744,073,709,551,615)
+float = 4 bytes (plus or minus 1038, limited to ~ 6 significant digits)
+double = 8 bytes (plus or minus 10308, limited to ~ 12 significant digits)
+long double = 16 bytes (plus or minus 10308, limited to ~ 31 significant digits)
+C string = depends on number of chars in the array
+object type = sum of the sizes of the individual data members
