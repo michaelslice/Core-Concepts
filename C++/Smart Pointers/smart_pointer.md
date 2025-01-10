@@ -1,4 +1,5 @@
 # Smart Pointer
+Is a composition class that is designed to manage dynamically allocated memory and ensure that memory gets deleted when the smart pointer goes out of scope
 
 # Unique Ptr
 Manages exclusive ownership, such as single-owner resources or implementing RAII(Resource Acquisition is Initialization)
